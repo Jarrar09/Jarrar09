@@ -5,11 +5,11 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarrar09&label=Profile%20views&color=0e75b6&style=flat" alt="jarrar09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarrarkhan09&label=Profile%20views&color=0e75b6&style=flat" alt="jarrar09" /> </p>
 
 - 🌱 I’m currently learning **React.js and Advanced javaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jarrar09]
+- 👨‍💻 All of my projects are available at [https://github.com/jarrarkhan09]
 
 - 💬 Ask me about **javasript, react**
 
